@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prithvi
-- 👀 I’m interested in Machine Learning ,Security and Data Privacy using ML techniques
-- 🌱 I’m currently learning Bayesian Machine Learning
+- 👀 I’m interested in Software Engineering,Machine Learning ,Security and Data Privacy
+- 🌱 I’m currently learning Bayesian Machine Learning and reinforcement learning
 - 💞️ I’m looking to collaborate on any Python Projects 
 - 📫 You can reach me on my email prithvi.shah@uconn.edu
 
